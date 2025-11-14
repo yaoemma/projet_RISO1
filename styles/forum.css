@@ -2,7 +2,10 @@
 
 /* Section Hero Forum */
 .forum-hero {
-    background: linear-gradient(135deg, #2E78C0 0%, #1E5A8A 100%);
+    background: linear-gradient(135deg, rgba(6, 32, 74, 0.85), rgba(20, 110, 165, 0.7)), url("../images/events/formation a l'ena/IMG-20250922-WA0040.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: white;
     padding: 120px 0 80px;
     position: relative;
